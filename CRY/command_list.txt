@@ -1,0 +1,8 @@
+log -name user_name -pass password -key key_location
+reg -name user_name -pass password -cert certificate_location
+logoff
+usr -[a|o]
+chat -user user_name -encalgo [aes|3ds|2fh] -hashalog [sh2|md5|sh1]
+message | location			{only for first message; in chat command}
+message				{can be used for first message; in chat command}
+lastmsg | message | location	{only for last message; in chat command}
