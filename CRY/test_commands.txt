@@ -1,0 +1,15 @@
+log -name aleksa -pass aleksa -key C:\Users\Majkic\source\repos\Cryptography\CRY\openssl\private\aleksa-private-2048.key
+chat -user majkic -encalgo aes -hashalgo md5
+chat -user majkic -encalgo aes -hashalgo sh1
+chat -user majkic -encalgo aes -hashalgo sh2
+
+chat -user majkic -encalgo 3ds -hashalgo md5
+chat -user majkic -encalgo 3ds -hashalgo sh1
+chat -user majkic -encalgo 3ds -hashalgo sh2
+
+chat -user majkic -encalgo 2fh -hashalgo md5
+chat -user majkic -encalgo 2fh -hashalgo sh1
+chat -user majkic -encalgo 2fh -hashalgo sh2
+
+log -name majkic -pass majkic -key C:\Users\Majkic\source\repos\Cryptography\CRY\openssl\private\majkic-private-2048.key
+chat -user aleksa -encalgo aes -hashalgo md5

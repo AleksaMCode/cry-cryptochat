@@ -1,0 +1,3 @@
+V	201228183744Z		01	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=CA_Aleksa/CN=aleksa/emailAddress=noreply@aleksa.com
+V	201228183825Z		02	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=CA_Aleksa/CN=majkic/emailAddress=noreply@majkic.com
+R	201228183847Z	200117085037Z,unspecified	03	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=CA_Aleksa/CN=aleksamajkic/emailAddress=noreply@am.com
