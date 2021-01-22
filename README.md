@@ -2,7 +2,7 @@
 <p align="justify"><i>Cryptography and Computer Protection</i> course project, as taught at the Faculty of Electrical Engineering Banja Luka. <b>CRY</b> is a console <a href="https://en.wikipedia.org/wiki/End-to-end_encryption">E2EE</a> chat application. I created this project a year ago, but I never got around to opensourcing it. This code is full of security holes that I'm currently working on minimizing. I'm also working on a project that has a much better approach to a practical implementation of different security mechanisms (<a href="https://github.com/AleksaMCode/Enigma">Enigma project</a>).</p>
 
 ## Name origin
-<p align="justify">Developing this application was I challenge for me because this was my first time developing software with emphasis on security. Cryptography and security in general are difficult subjects and their thoroughly understanding requires time and patience. While developing this project, at times I wanted to cry from frustration hence the name. 😂 I think that the experience I've gained developing this software will help me to create a better LAN/WLAN and/or online E2EE chat application.</p>
+<p align="justify">Developing this application was I challenge for me because this was my first time developing software with emphasis on security. Cryptography and security in general are difficult subjects and their thoroughly understanding requires time and patience. While developing this project, at times I wanted to cry from frustration hence the name. 😂 One thing’s for sure, experience I've gained developing this software helped me gain a better understanding of cryptography.</p>
 
 ## Usage
 ### Register
