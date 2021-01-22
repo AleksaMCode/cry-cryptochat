@@ -1,6 +1,5 @@
 # CRY crypto-chat
-<p align="justify"><i>Cryptography and Computer Security</i> course project, as taught at the Faculty of Electrical Engineering Banja Luka. <b>CRY</b> is a console <a href="https://en.wikipedia.org/wiki/End-to-end_encryption">E2EE</a> chat application written in <b><i>C#</i></b>.<br>
-I created this project a year ago, but I never got around to opensourcing it.</p>
+<p align="justify"><i>Cryptography and Computer Security</i> course project, as taught at the Faculty of Electrical Engineering Banja Luka. <b>CRY</b> is a console <a href="https://en.wikipedia.org/wiki/End-to-end_encryption">E2EE</a> chat application written in <b><i>C#</i></b>. I created this project a year ago, but I never got around to opensourcing it.</p>
 
 ## Usage
 ### Register
