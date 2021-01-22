@@ -12,9 +12,9 @@
 Detailed explanation of the individual commands and their flags.
 COMMAND | NAME | SYNOPSIS | DESCRIPTION
 | --- | --- | --- | ---
-LOGIN | login - allows access into the chat application | **log** -name *user_name* -pass *user_pass* -key *key_location* | Command allows user to login into the chat application. User needs username, password and it's private RSA key.
-REGISTER | register - creates a new user | **reg** -name *user_name* -pass *user_pass* -cert *certificate_location* | Command creates a new user in database *Users.db*. User needs to provide username, password and a valid certificate that has been issued by the appropriate certificate authority which is denoted here as *rootCA.pem* file.
-USER #1 | usr - show all user that have a | **usr** -a | Command shows every user that has an registered account.
+LOGIN | login - allows access into the chat application | **log** -name *username* -pass *password* -key *key_path* | Command allows user to login into the chat application. User needs username, password and it's private RSA key.
+REGISTER | register - creates a new user | **reg** -name *username* -pass *password* -cert *certificate_path* | Command creates a new user in database *Users.db*. User needs to provide username, password and a valid certificate that has been issued by the appropriate certificate authority which is denoted here as *rootCA.pem* file.
+USER #1 | usr - show all users that have an account | **usr** -a | Command shows every user that has an registered account.
 USER #2 | usr - shows online users | **usr** -o | Command shows every user that is online.
 CHAT | chat - starts E2EE chat with other user. | **char** -user *username* -encalgo *[aes \| 3ds \| 2fh]* -hashalgo *[sh1 \| sh2 \| md5]* | Command initializes a three-way CRY handshake and if it's successful E2EE chat will be stared.
 LOGOFF | logoff - allows users to logout | **logoff** | Command performs log out on the currently logged in user which in turn allows same/different user to login using the same instance of the application.
