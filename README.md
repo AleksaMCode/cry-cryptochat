@@ -1,9 +1,10 @@
 # CRY crypto-chat
-<p align="justify"><i>Cryptography and Computer Security</i> course project, as taught at the Faculty of Electrical Engineering Banja Luka. <b>CRY</b> is a console <a href="https://en.wikipedia.org/wiki/End-to-end_encryption">E2EE</a> chat application written in <b><i>C#</i></b>.</p>
+<p align="justify"><i>Cryptography and Computer Security</i> course project, as taught at the Faculty of Electrical Engineering Banja Luka. <b>CRY</b> is a console <a href="https://en.wikipedia.org/wiki/End-to-end_encryption">E2EE</a> chat application written in <b><i>C#</i></b>.<br>
+I created this project a year ago, but I never got around to opensourcing it.</p>
 
 ## Usage
 ### Register
-<p align="justify">To chat with other user you first need to create an account. You do that by registering using an <i>Username</i>, <i>Password</i> and a <i>X.509 Public Certificate</i> file which has been issued by the appropriate CA.</p>
+<p align="justify">To chat with other user you first need to create an account. You do that by registering using an <i>Username</i>, <i>Password</i> and a <i><a href="https://en.wikipedia.org/wiki/X.509">X.509</a> Public Certificate</i> file which has been issued by the appropriate CA.</p>
 
 ### Login
 <p align="justify">Once user has succesfully started the chat application, <b>CRY</b> will prompt user to enter a new command. To use the chat application user must first login.<br>
