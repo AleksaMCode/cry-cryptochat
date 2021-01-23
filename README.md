@@ -43,7 +43,7 @@ Hashing algorithms that are implemented in <b>CRY</b>:
 
 ## CRYP (CRY Protocol)
 <p align="justify">Simple, custom made, application-level communication protocol used to establish modeled on <a href="https://en.wikipedia.org/wiki/Transmission_Control_Protocol">TCP</a>. Protocol defines how to establish and maintain a conversation through which application programs can exchange encrypted messages using a Three-way handshake.<br>
-<b>NOTE</b>: Never develop your own algorithms or protocol if you don't know what are you doing. Chances are you will write something that isn't secure and full of bugs. Also don't try to become zero-bug developer. It has been a year since I've "written" this protocol and from this standpoint I can clearly see this protocol is vulnerable to at least MITM (<a href="https://en.wikipedia.org/wiki/Man-in-the-middle_attack">Man-in-the-middle</a>) attack. This vulnerability could be overcome with usage of digital signature.</p>
+<b>NOTE</b>: Never develop your own algorithms or protocols if you don't know what are you doing. Chances are you will write something that isn't secure and full of bugs. Also don't try to become zero-bug developer. It has been a year since I've written this "protocol" and from this standpoint I can clearly see this protocol is vulnerable to at least MITM (<a href="https://en.wikipedia.org/wiki/Man-in-the-middle_attack">Man-in-the-middle</a>) attack. This vulnerability could be overcome with usage of digital signature.</p>
 
 ### CRYP handshake
 
